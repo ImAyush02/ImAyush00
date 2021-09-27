@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ImAyush02
 - 👀 I’m interested in Machine Learning||Artifical Intelligence
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on Machine learning and Data science
+- 📫 How to reach me 
 
 <!---
 ImAyush02/ImAyush02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
