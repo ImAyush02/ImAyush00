@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ImAyush02
-- 👀 I’m interested in Machine Learning||Artifical Intelligence
+- 👀 I’m interested in Data Science||Machine Learning||Artifical Intelligence
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Machine learning and Data science
 - 📫 How to reach me https://www.linkedin.com/in/ayush-gupta-45aaa7157/
